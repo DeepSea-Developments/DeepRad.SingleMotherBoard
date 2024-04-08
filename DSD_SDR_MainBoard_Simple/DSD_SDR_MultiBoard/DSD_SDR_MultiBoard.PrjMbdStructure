@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=DSD_SDR_MultiBoard.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\DSD_SDR_MainBoard_Simple.PrjPcb
+Record=SubProject|SourceDocument=DSD_SDR_MultiBoard.MbsDoc|ProjectPath=..\DSD_SDR_MainBoard_Simple.PrjPcb
+Record=DiagramHierarchy|SourceDocument=DSD_SDR_MultiBoard.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\..\DSD_SDR_Module\DSD_SDR_Module.PrjPcb
+Record=SubProject|SourceDocument=DSD_SDR_MultiBoard.MbsDoc|ProjectPath=..\..\DSD_SDR_Module\DSD_SDR_Module.PrjPcb

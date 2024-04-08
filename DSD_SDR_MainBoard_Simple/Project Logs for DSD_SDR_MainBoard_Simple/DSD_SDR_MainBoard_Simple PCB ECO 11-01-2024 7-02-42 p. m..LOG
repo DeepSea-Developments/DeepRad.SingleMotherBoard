@@ -1,0 +1,36 @@
+Added Component: Designator=J(JAE_DX07S016JA1R1500)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=4551013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JAE Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DX07S016JA1R1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DX07S016JA1R1500/JAE%20Electronics/view-part/4551013/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J-1
+Added Pin To Net: NetName=+5-USB Pin=J-2
+Added Pin To Net: NetName=+5-USB Pin=J-11
+Added Pin To Net: NetName=GND Pin=J-12
+Added Pin To Net: NetName=GND Pin=J-S1
+Added Pin To Net: NetName=GND Pin=J-S2
+Added Pin To Net: NetName=GND Pin=J-S3
+Added Pin To Net: NetName=GND Pin=J-S4
+Added Pin To Net: NetName=GND Pin=J-S5
+Added Pin To Net: NetName=GND Pin=J-S6
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Pin To Net: NetName=NetJ_3 Pin=J-3
+Added Pin To Net: NetName=NetJ_3 Pin=R?-2
+Added Net: Name=NetJ_3
+Added Pin To Net: NetName=NetJ_5 Pin=J-5
+Added Pin To Net: NetName=NetJ_5 Pin=J-8
+Added Net: Name=NetJ_5
+Added Pin To Net: NetName=NetJ_6 Pin=J-6
+Added Pin To Net: NetName=NetJ_6 Pin=J-7
+Added Net: Name=NetJ_6
+Added Pin To Net: NetName=NetJ_9 Pin=J-9
+Added Pin To Net: NetName=NetJ_9 Pin=R?-2
+Added Net: Name=NetJ_9
+Added Member To Class: ClassName=DSD_SDR_MainBoard_Simple Member=Component J DX07S016JA1R1500
+Added Member To Class: ClassName=DSD_SDR_MainBoard_Simple Member=Component PD? Pad
+Added Member To Class: ClassName=DSD_SDR_MainBoard_Simple Member=Component R? 5.1k

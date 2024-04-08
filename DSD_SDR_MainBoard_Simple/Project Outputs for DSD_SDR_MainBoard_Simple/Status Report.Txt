@@ -1,0 +1,27 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [DSD_SDR_MainBoard_Simple.PrjPcb]
+   Generated File[DSD_SDR_MainBoard_Simple.GTO]
+   Generated File[DSD_SDR_MainBoard_Simple.GTP]
+   Generated File[DSD_SDR_MainBoard_Simple.GTS]
+   Generated File[DSD_SDR_MainBoard_Simple.GTL]
+   Generated File[DSD_SDR_MainBoard_Simple.GBL]
+   Generated File[DSD_SDR_MainBoard_Simple.GBS]
+   Generated File[DSD_SDR_MainBoard_Simple.GBP]
+   Generated File[DSD_SDR_MainBoard_Simple.GBO]
+   Generated File[DSD_SDR_MainBoard_Simple.GM1]
+   Generated File[DSD_SDR_MainBoard_Simple.GM3]
+   Generated File[DSD_SDR_MainBoard_Simple.GM13]
+   Generated File[DSD_SDR_MainBoard_Simple.GM16]
+   Generated File[DSD_SDR_MainBoard_Simple.GKO]
+   Generated File[DSD_SDR_MainBoard_Simple.GD1]
+   Generated File[DSD_SDR_MainBoard_Simple.GG1]
+   Generated File[DSD_SDR_MainBoard_Simple.GM]
+   Generated File[DSD_SDR_MainBoard_Simple.EXTREP]
+   Generated File[DSD_SDR_MainBoard_Simple.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 12:34:06 p. m. On 4/03/2024
